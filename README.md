@@ -6,8 +6,6 @@ A web-based **Restaurant Reservation System** designed to streamline table booki
 
 ![Landing Page](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/1.jpg?raw=true)
 
-
-
 ---
 
 ## Tech Stack
@@ -29,35 +27,38 @@ A web-based **Restaurant Reservation System** designed to streamline table booki
 - Cancel reservations anytime.
 - Rate the restaurant and submit reports or feedback.
 
-  - **Authentication:** Register and log in.
-  - ![Login Page]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/3.jpg))
-  - ![Sign Up Page]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/2.jpg))
-  - - **Homepage/Menu:**
-  - ![Homepage]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/4.jpg))
+**Authentication:**  
+![Login Page](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/3.jpg?raw=true)  
+![Sign Up Page](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/2.jpg?raw=true)
 
-- **Make Reservations:**
-  - ![Reservation]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/8.jpg))
+**Homepage/Menu:**  
+![Homepage](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/4.jpg?raw=true)
 
-- **Browse Menu:**
-  - ![Menu]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/7.jpg))
+**Make Reservations:**  
+![Reservation](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/8.jpg?raw=true)
 
-- **Place Orders:**
-  - ![Order Page]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/9.jpg))
+**Browse Menu:**  
+![Menu](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/7.jpg?raw=true)
 
-- **View Orders:**
-  - ![Order Review]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/10.jpg))
+**Place Orders:**  
+![Order Page](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/9.jpg?raw=true)
 
-- **Rate & Report:**
-  - ![Rating Page]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/11.jpg))
-  - ![Report Page]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/12.jpg))
+**View Orders:**  
+![Order Review](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/10.jpg?raw=true)
+
+**Rate & Report:**  
+![Rating Page](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/11.jpg?raw=true)  
+![Report Page](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/12.jpg?raw=true)
 
 ### For Staff:
+
 - Register and log in to their dashboards.
 - Review and manage customer orders.
 - Update table statuses in real-time.
 - View their profiles and allowed functionalities.
 
 ### For Admin (Manager):
+
 - Full access to all bookings, orders, and tables.
 - Manage menu items (add, edit, delete).
 - View employee profiles and grant permissions.
@@ -72,6 +73,7 @@ A web-based **Restaurant Reservation System** designed to streamline table booki
 
 1. Install Python and pip.
 2. Install required packages:
+
    ```
    pip install -r requirements.txt
    ```

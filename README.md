@@ -4,7 +4,8 @@
 
 A web-based **Restaurant Reservation System** designed to streamline table bookings, order management, and menu browsing for both customers and restaurant staff. The system provides a user-friendly interface, efficient backend operations, and secure data management.
 
-![Landing Page]((https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/1.jpg))
+![Landing Page](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/1.jpg?raw=true)
+
 
 
 ---

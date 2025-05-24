@@ -4,7 +4,7 @@
 
 A web-based **Restaurant Reservation System** designed to streamline table bookings, order management, and menu browsing for both customers and restaurant staff. The system provides a user-friendly interface, efficient backend operations, and secure data management.
 
-![Landing Page](WEBSITEIMAGES/1.jpg)
+![Landing Page]([WEBSITEIMAGES/1.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/1.jpg))
 
 
 ---
@@ -29,26 +29,26 @@ A web-based **Restaurant Reservation System** designed to streamline table booki
 - Rate the restaurant and submit reports or feedback.
 
   - **Authentication:** Register and log in.
-  - ![Login Page](WEBSITE IMAGES/3.jpg)
-  - ![Sign Up Page](WEBSITE IMAGES/2.jpg)
+  - ![Login Page]([WEBSITE IMAGES/3.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/3.jpg))
+  - ![Sign Up Page]([WEBSITE IMAGES/2.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/2.jpg))
   - - **Homepage/Menu:**
-  - ![Homepage](WEBSITE IMAGES/4.jpg)
+  - ![Homepage]([WEBSITE IMAGES/4.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/4.jpg))
 
 - **Make Reservations:**
-  - ![Reservation](WEBSITE IMAGES/8.jpg)
+  - ![Reservation]([WEBSITE IMAGES/8.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/8.jpg))
 
 - **Browse Menu:**
-  - ![Menu](WEBSITE IMAGES/7.jpg)
+  - ![Menu]([WEBSITE IMAGES/7.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/7.jpg))
 
 - **Place Orders:**
-  - ![Order Page](images/adding.jpg)
+  - ![Order Page]([images/adding.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/9.jpg))
 
 - **View Orders:**
-  - ![Order Review](WEBSITE IMAGES/10.jpg)
+  - ![Order Review]([WEBSITE IMAGES/10.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/10.jpg))
 
 - **Rate & Report:**
-  - ![Rating Page](WEBSITE IMAGES/11.jpg)
-  - ![Report Page](WEBSITE IMAGES/12.jpg)
+  - ![Rating Page]([WEBSITE IMAGES/11.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/11.jpg))
+  - ![Report Page]([WEBSITE IMAGES/12.jpg](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/12.jpg))
 
 ### For Staff:
 - Register and log in to their dashboards.

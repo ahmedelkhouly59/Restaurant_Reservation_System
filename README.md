@@ -34,6 +34,12 @@ A web-based **Restaurant Reservation System** designed to streamline table booki
 **Homepage/Menu:**  
 ![Homepage](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/4.jpg?raw=true)
 
+
+**About Us Page:**
+![About Us](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/f67be4c71913336bc87ac29f6b597465c894c115/WEBSITE%20IMAGES/6.jpg?raw=true)
+
+
+
 **Make Reservations:**  
 ![Reservation](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/c1afd478d1f1c98464eb12b5ee35ea76af827afc/WEBSITE%20IMAGES/8.jpg?raw=true)
 
@@ -64,6 +70,15 @@ A web-based **Restaurant Reservation System** designed to streamline table booki
 - View employee profiles and grant permissions.
 - Access customer feedback and reports.
 - Generate operational reports.
+
+  ![Admin Dashboard](https://github.com/ahmedelkhouly59/Restaurant_Reservation_System/blob/46ada3ea2937086ecdb5e20bf576fc6e4bfb603a/WEBSITE%20IMAGES/AdminDashboard.jpg?raw=true)
+
+
+
+
+- 
+
+- 
 
 ---
 

@@ -4,6 +4,9 @@
 
 A web-based **Restaurant Reservation System** designed to streamline table bookings, order management, and menu browsing for both customers and restaurant staff. The system provides a user-friendly interface, efficient backend operations, and secure data management.
 
+![Landing Page](WEBSITE IMAGES/1.jpg)
+
+
 ---
 
 ## Tech Stack
@@ -17,12 +20,35 @@ A web-based **Restaurant Reservation System** designed to streamline table booki
 ## Features
 
 ### For Customers:
+
 - Register and log in to the system.
 - Make table reservations by date, time, and number of guests.
 - Browse restaurant menus with descriptions and prices.
 - Place orders and review them before confirming.
 - Cancel reservations anytime.
 - Rate the restaurant and submit reports or feedback.
+
+  - **Authentication:** Register and log in.
+  - ![Login Page](WEBSITE IMAGES/3.jpg)
+  - ![Sign Up Page](WEBSITE IMAGES/2.jpg)
+  - - **Homepage/Menu:**
+  - ![Homepage](WEBSITE IMAGES/4.jpg)
+
+- **Make Reservations:**
+  - ![Reservation](WEBSITE IMAGES/8.jpg)
+
+- **Browse Menu:**
+  - ![Menu](WEBSITE IMAGES/7.jpg)
+
+- **Place Orders:**
+  - ![Order Page](images/adding.jpg)
+
+- **View Orders:**
+  - ![Order Review](WEBSITE IMAGES/10.jpg)
+
+- **Rate & Report:**
+  - ![Rating Page](WEBSITE IMAGES/11.jpg)
+  - ![Report Page](WEBSITE IMAGES/12.jpg)
 
 ### For Staff:
 - Register and log in to their dashboards.
